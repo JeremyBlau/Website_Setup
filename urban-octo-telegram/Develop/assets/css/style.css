@@ -120,18 +120,21 @@ p {
     text-align: center;
 }
 
+/*this will define the formatting of the benefit-lead img*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*this will define the formatting of the benefit-brand img*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*this will define the formatting of the benefit-cost img*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
