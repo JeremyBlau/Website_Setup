@@ -2,7 +2,7 @@
 This project is a [brief description of your project]. It is designed to [mention the purpose and goals of your project]. The application provides [highlight the key features and functionalities of your project]. It was built using [mention the technologies, frameworks, or libraries used].
 
 Screenshots
-Screenshot 1
+![Uploading image.png…]()
 Screenshot 2
 Screenshot 3
 
