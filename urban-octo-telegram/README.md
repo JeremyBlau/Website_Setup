@@ -1,10 +1,10 @@
 ## Description
-This project is a [brief description of your project]. It is designed to [mention the purpose and goals of your project]. The application provides [highlight the key features and functionalities of your project]. It was built using [mention the technologies, frameworks, or libraries used].
+This project is a mock project designed to impress clients, practicing improving a codebase for long-term sustainability. Making sure that all links are functioning correctly. Reworking the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 Screenshots
 <img width="1439" alt="Screen Shot 2023-06-15 at 9 54 25 PM" src="https://github.com/JeremyBlau/Week-one-assignment/assets/134236414/7e0f5c8d-5405-4a7b-acc4-18d8706e95dd">
-Screenshot 2
-Screenshot 3
+<img width="1438" alt="Screen Shot 2023-06-15 at 9 54 38 PM" src="https://github.com/JeremyBlau/Week-one-assignment/assets/134236414/92cc8c1a-bd6d-48ad-bbf1-b26cd0a0ca11">
+
 
 ## Deployment
 The application is deployed and can be accessed through the following link: Deployed Application
